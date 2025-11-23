@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Neural Network, Chatbots**
 
-- 📫 How to reach me naeemkhani2024@gmail.com
+- 📫 How to reach me naeemkhan1998420@gmail.com
 
 - 📄 Know about my experiences [(https://www.linkedin.com/in/naeem-khan-datascientist/)](https://www.linkedin.com/in/naeem-khan-datascientist/)
 
